@@ -13,3 +13,5 @@ My name is Darryl from Indonesia, and i do Game Development & other projects on 
 
 
 ### Recent Projects:
+1) Pong :
+<img src="https://github.com/PerpleXG29/PerpleXG29/blob/main/Pong%201.gif" border="0" width="500">
