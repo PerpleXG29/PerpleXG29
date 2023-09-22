@@ -6,7 +6,10 @@ My name is Darryl from Indonesia, and i do Game Development & other projects on 
 
 
 
-### Skills and Experience
+### Skills and Experience:
 * 🕹️ Game Development
 * 💻 C# Programmer
 * 📚 Always learning 
+
+
+### Recent Projects:
