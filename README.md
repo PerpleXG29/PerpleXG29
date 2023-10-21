@@ -1,6 +1,6 @@
 ### Hello there 👋,
 
-<img src="https://i.ibb.co/0VcK34w/Github-Banner.png" alt="Github-Banner" border="0" width="1920">
+<img src="https://github.com/PerpleXG29/PerpleXG29/blob/main/Github%20Banner.png" border="0" width="1920">
 
 My name is Darryl from Indonesia, and i do Game Development & other projects on Unity. I am still learning the Ins and Outs of Unity development, but this page is a testament to journey of learning and exploration
 
