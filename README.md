@@ -13,7 +13,7 @@ My name is Darryl from Indonesia, and i do Game Development & other projects on 
 
 ### Recent Projects:
 
-Packet-Man :
+<font size = 30>Packet-Man :</font>
 <br></br>
 
 <img src="https://github.com/PerpleXG29/PerpleXG29/blob/17d89f11c23e01dec61dc9f19faf3020092657cf/PacketMan%20Main%20Menu.gif" border="0" width="45%"/>&nbsp; &nbsp; <img src="https://github.com/PerpleXG29/PerpleXG29/blob/17d89f11c23e01dec61dc9f19faf3020092657cf/PacketMan%20Loading%20Screen.gif" border="0" width="45%"/><br><br> <img src="https://github.com/PerpleXG29/PerpleXG29/blob/17d89f11c23e01dec61dc9f19faf3020092657cf/PacketMan%20GamePlay%201.gif" border="0" width="45%"/>&nbsp; &nbsp; <img src="https://github.com/PerpleXG29/PerpleXG29/blob/17d89f11c23e01dec61dc9f19faf3020092657cf/PacketMan%20GamePlay%202.gif" border="0" width="45%"/>
